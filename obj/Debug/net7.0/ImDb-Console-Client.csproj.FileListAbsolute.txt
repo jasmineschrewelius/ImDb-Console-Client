@@ -1,0 +1,14 @@
+C:\Workspace\Backend2\ImDb-Console-Client\bin\Debug\net7.0\ImDb-Console-Client.exe
+C:\Workspace\Backend2\ImDb-Console-Client\bin\Debug\net7.0\ImDb-Console-Client.deps.json
+C:\Workspace\Backend2\ImDb-Console-Client\bin\Debug\net7.0\ImDb-Console-Client.runtimeconfig.json
+C:\Workspace\Backend2\ImDb-Console-Client\bin\Debug\net7.0\ImDb-Console-Client.dll
+C:\Workspace\Backend2\ImDb-Console-Client\bin\Debug\net7.0\ImDb-Console-Client.pdb
+C:\Workspace\Backend2\ImDb-Console-Client\obj\Debug\net7.0\ImDb-Console-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Backend2\ImDb-Console-Client\obj\Debug\net7.0\ImDb-Console-Client.AssemblyInfoInputs.cache
+C:\Workspace\Backend2\ImDb-Console-Client\obj\Debug\net7.0\ImDb-Console-Client.AssemblyInfo.cs
+C:\Workspace\Backend2\ImDb-Console-Client\obj\Debug\net7.0\ImDb-Console-Client.csproj.CoreCompileInputs.cache
+C:\Workspace\Backend2\ImDb-Console-Client\obj\Debug\net7.0\ImDb-Console-Client.dll
+C:\Workspace\Backend2\ImDb-Console-Client\obj\Debug\net7.0\refint\ImDb-Console-Client.dll
+C:\Workspace\Backend2\ImDb-Console-Client\obj\Debug\net7.0\ImDb-Console-Client.pdb
+C:\Workspace\Backend2\ImDb-Console-Client\obj\Debug\net7.0\ImDb-Console-Client.genruntimeconfig.cache
+C:\Workspace\Backend2\ImDb-Console-Client\obj\Debug\net7.0\ref\ImDb-Console-Client.dll
